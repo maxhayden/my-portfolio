@@ -33,7 +33,7 @@ function ProjectTile({name, desc, site}) {
                     <div class="card-body d-flex flex-column justify-content-between">
                         <h5 class="card-title border-bottom">{name}</h5>
                         <p class="card-text text-start">{desc}</p>
-                        <a href={site} target="_blank" class="btn btn-primary ">View</a>
+                        <a href={site} target="_blank" rel="noreferrer" class="btn btn-primary ">View</a>
                     </div>
             </div>
         </>

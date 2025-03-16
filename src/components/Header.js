@@ -1,7 +1,3 @@
-import logo from '../logo.svg';
-import '../App.css';
-import {BrowserRouter, Link} from "react-router-dom";
-
 function Header() {
     return (
         <>
