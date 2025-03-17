@@ -19,6 +19,21 @@ function Featured() {
                     desc={"Team based application for android devices that functions as a barter and trading marketplace. "}
                     site={""}
                 ></ProjectTile>
+                <ProjectTile
+                    name={"Band Website"}
+                    desc={"Solo development of a website Designed with HTML, CSS, JS, and Bootstrap to host my bands live shows and links"}
+                    site={"https://customerservice.band"}
+                ></ProjectTile>
+                <ProjectTile
+                    name={"AWS Application"}
+                    desc={"Solo development of an application hosted on AWS cloud that _____, using EC2, RDS, RESTful APIs, VPCs, and ..."}
+                    site={"https://github.com/maxhayden/aws-simple-api"}
+                ></ProjectTile>
+                <ProjectTile
+                    name={"Barter & Trade App"}
+                    desc={"Team based application for android devices that functions as a barter and trading marketplace. "}
+                    site={""}
+                ></ProjectTile>
                 </div>
                 
             </div>

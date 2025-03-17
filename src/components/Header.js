@@ -19,9 +19,6 @@ function Header() {
                             <ul class="nav-item">
                                 <Link to="/projects">Projects</Link>
                             </ul>
-                            <ul class="nav-item">
-                                <Link to="/music">Music</Link>
-                            </ul>
                         </li>
                     </nav>
                 </div>
